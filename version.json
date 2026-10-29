@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.1",
-  "apk": "https://github.com/mayo3030/Y-tube-releases/releases/download/v1.0.1/M-Play.apk",
-  "sha256": "5836b3ba1011a093cfb9f516268f058c2d79f23f0b0ce7a4147e7d41fd788ddd",
-  "notes": "First release: M-Play runs on the phone by itself, with an Update button",
-  "publishedAt": "2026-10-29T23:29:51.665Z"
+  "versionCode": 4,
+  "versionName": "1.0.2",
+  "apk": "https://github.com/mayo3030/Y-tube-releases/releases/download/v1.0.2/M-Play.apk",
+  "sha256": "7224449fd2526bca24345fe7d04d1e27a997622ebd7d54c7d0ce8eda5bb7211d",
+  "notes": "Update button fixed: it stays visible and continues by itself after you allow installs",
+  "publishedAt": "2026-10-29T23:34:29.789Z"
 }
