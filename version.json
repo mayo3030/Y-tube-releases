@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.3",
-  "apk": "https://github.com/mayo3030/Y-tube-releases/releases/download/v1.0.3/M-Play.apk",
-  "sha256": "504999ed2e6abe30fb7bebd55fd81fda4de843623594f2fddc580660c1a403cc",
-  "notes": "Sign-in fixed and new Home, Search and Explore design",
-  "publishedAt": "2026-10-29T23:52:54.515Z"
+  "versionCode": 6,
+  "versionName": "1.0.4",
+  "apk": "https://github.com/mayo3030/Y-tube-releases/releases/download/v1.0.4/M-Play.apk",
+  "sha256": "7a0bf829f1fd12cc28d434895a1bd6f9353c6ebc463af042d7d95a45d4da7bc6",
+  "notes": "Sign-in inside the app now works and stays saved",
+  "publishedAt": "2026-10-29T23:59:45.060Z"
 }
