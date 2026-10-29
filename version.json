@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.2",
-  "apk": "https://github.com/mayo3030/Y-tube-releases/releases/download/v1.0.2/M-Play.apk",
-  "sha256": "7224449fd2526bca24345fe7d04d1e27a997622ebd7d54c7d0ce8eda5bb7211d",
-  "notes": "Update button fixed: it stays visible and continues by itself after you allow installs",
-  "publishedAt": "2026-10-29T23:34:29.789Z"
+  "versionCode": 5,
+  "versionName": "1.0.3",
+  "apk": "https://github.com/mayo3030/Y-tube-releases/releases/download/v1.0.3/M-Play.apk",
+  "sha256": "504999ed2e6abe30fb7bebd55fd81fda4de843623594f2fddc580660c1a403cc",
+  "notes": "Sign-in fixed and new Home, Search and Explore design",
+  "publishedAt": "2026-10-29T23:52:54.515Z"
 }
